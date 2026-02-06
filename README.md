@@ -1,5 +1,5 @@
 # Harshvardhan Bablani | Aspiring Quant Developer
-🔭 Currently learning DSA and Algorithmic Trading<br>👯 Looking forward to collaborate on Quant projects<br>
+🔭 Currently learning DSA and Algorithmic Trading<br>👯 Looking forward to collaborating on Quant projects<br>
 
 
 ## 🌐 Socials:
